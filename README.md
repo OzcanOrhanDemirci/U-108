@@ -35,4 +35,4 @@ Takım olarak bazı detayları henüz netleştirmedik. Bu nedenle hikaye ve oyna
 
 **Sprint Review:** Hikaye düzenlendi, oyunun sadece renkli ve capcanlı gözükmesi yerine zamanla ciddileşmesi ve daha karanlık hale gelmesi konuşuldu, oynanışı güçlendirmek için bulmaca ve çeşitli platform mekanikleri tartışıldı.
 
-**Sprint Retrospective:** Üniversite finalleri başta olmak üzere Bootcamp sürecenin yoğun bir döneme denk geldiğini ancak 2.Sprintte daha fazla çalışarak bunu telafi etmemiz gerektiğini konuştuk.
+**Sprint Retrospective:** Üniversite finalleri başta olmak üzere Bootcamp sürecinin yoğun bir döneme denk geldiğini ancak 2.Sprintte daha fazla çalışarak bunu telafi etmemiz gerektiğini konuştuk.
