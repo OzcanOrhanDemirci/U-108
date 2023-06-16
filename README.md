@@ -12,8 +12,11 @@ U-108 Projesi (Proje ismi konusunda henüz karara varamadık)
 U-108 Projesi, hikaye odaklı 2D Platform oyunudur. Oyunculara 4.duvarı yıkan hikaye anlatımı ile platform mekanikleri sunar. Oyunumuz yakın gelecekteki bir bilim-kurgu evrenini temel alır. Ana karakter, U-108 Projesinin içerisinde hapsolmuştur ve bu olayın nasıl gerçekleştiğini hatırlamamaktadır ancak  bir oyunun içerisinde olduğunu ve bir oyuncu tarafından kontrol edildiğinin farkındadır. Bu sayede doğrudan oyuncu ile iletişim kurabilir. Oyunun geçtiği evren ilk bakışta rengarenk ve eğlencelidir ama gerçekler zamanla ortaya çıkacaktır. Ana karakter oyunda ilerledikçe o rengarenk, cıvıl cıvıl evren gittikçe ciddi ve tehlikeli hale gelir. Ana karakter yani oyuncu, hikayeyi deneyimlerken platformlar arasında yol alır ve çeşitli bulmacaları çözerek bu sanal dünyadan kaçmaya çalışır.
 ## Ürün Özellikleri
 Ana karakter, 4.duvarı yıkarak oyuncu ile yazılı olarak konuşur.
+
 Oyuncu; Yürüme, zıplama, atılma gibi temel oynanış mekaniklerini kullanarak çeşitli bulmacaları çözer ve platformlar arasında ilerler.
+
 Oyuncu, oyunda ilerleyerek hikayeyi deneyim eder.
+
 ## Hedef Kitle
 Oyunumuzun hedef kitlesi, oyun oynamayı seven herkesi kapsasa da öncelikli olarak 12-29 yaş arası oyuncuların ilgisini çekmeyi amaçlar.
 
