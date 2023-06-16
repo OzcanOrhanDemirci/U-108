@@ -16,9 +16,13 @@ Oyuncu; Yürüme, zıplama, atılma gibi temel oynanış mekaniklerini kullanara
 Oyuncu, oyunda ilerleyerek hikayeyi deneyim eder.
 ## Hedef Kitle
 Oyunumuzun hedef kitlesi, oyun oynamayı seven herkesi kapsasa da öncelikli olarak 12-29 yaş arası oyuncuların ilgisini çekmeyi amaçlar.
+
 4.Duvarı yıkan Deadpool gibi filmlere ve Stanley Parable gibi oyunlara ilgi duyanlar.
+
 Celeste gibi oynanışın temelinde platform olan oyunları sevenler.
+
 Bilim-Kurgu temelli hikayeleri deneyimlemekten keyif alanlar.
+
 ## Not
 Takım olarak bazı detayları henüz netleştirmedik. Bu nedenle hikaye ve oynanış başta olmak üzere bazı detaylar zamanla değişebilir.
 # Sprint 1
