@@ -2,9 +2,13 @@
 Takım Unity 108
 # Takım Üyeleri
 Özcan Orhan Demirci: Scrum Master
+
 Simge Gürakar: Product Owner
+
 Aleyna Temelkaya: Developer
+
 Esranur Doğan: Developer
+
 # Ürün İle İlgili Bilgiler
 ## Ürün İsmi
 U-108 Projesi (Proje ismi konusunda henüz karara varamadık)
