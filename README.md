@@ -23,10 +23,16 @@ Bilim-Kurgu temelli hikayeleri deneyimlemekten keyif alanlar.
 Takım olarak bazı detayları henüz netleştirmedik. Bu nedenle hikaye ve oynanış başta olmak üzere bazı detaylar zamanla değişebilir.
 # Sprint 1
 **Sprint içerisinde tamamlanması tahmin edilen puan:** 100 Puan
+
 **Puan Tamamlama Mantığı:** 1.Sprint, takım olarak bir araya gelmek ve tanışmak ile geçti. Oyunumuz ile ilgili ilk kararları aldık. İlk sprint için her şeyi eksiksiz yapmaya çalışıyoruz ancak hata yaptığımız noktalar olursa sonraki sprintlerde bu hataları gidererek tam puana ulaşmayı hedefliyoruz.
+
 **Daily Scrum:** Discord üzerinden sesli bir toplantı yaptık. Hem tanıştık hem de proje ile ilgili kararları aldık. Ekip olarak zaman sorunları nedeniyle her gün sesli toplantı yapamadık. Bunun yerine WhatsApp, Slack ve Discord üzerinden mesajlaşarak iletişim kurduk.
+
 **Sprint Board Update:** Takım olarak Trello üzerinden projemiz için planlama yaptık. Ekran Görüntüsü:
 ![U108Trello](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/76db0425-3ee6-4e9b-86c7-e9e8c7b64d3d)
+
 **Ürün Durumu:** 1.Sprint, oyunumuz için aktif bir geliştirme süreci olmadı ancak hazırlıklarımızı tamamladık. 2.Sprintin başlaması ile beraber oyunumuzu geliştirmeye başlayacağız.
+
 **Sprint Review:** Hikaye düzenlendi, oyunun sadece renkli ve capcanlı gözükmesi yerine zamanla ciddileşmesi ve daha karanlık hale gelmesi konuşuldu, oynanışı güçlendirmek için bulmaca ve çeşitli platform mekanikleri tartışıldı.
+
 **Sprint Retrospective:** Üniversite finalleri başta olmak üzere Bootcamp sürecenin yoğun bir döneme denk geldiğini ancak 2.Sprintte daha fazla çalışarak bunu telafi etmemiz gerektiğini konuştuk.
