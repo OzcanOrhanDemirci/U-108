@@ -48,7 +48,8 @@ WhatsApp ekran görüntülerimiz:
 Takım olarak Trello üzerinden projemiz için planlama yaptık. Ekran Görüntüsü:
 ![U108Trello](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/76db0425-3ee6-4e9b-86c7-e9e8c7b64d3d)
 
-**Ürün Durumu:** 1.Sprint, oyunumuz için aktif bir geliştirme süreci olmadı ancak hazırlıklarımızı tamamladık. 2.Sprintin başlaması ile beraber oyunumuzu geliştirmeye başlayacağız.
+**Ürün Durumu:** 1.Sprint, oyunumuz için aktif bir geliştirme süreci olmadı ancak hazırlıklarımızı tamamladık. 2.Sprintin başlaması ile beraber oyunumuzu geliştirmeye başlayacağız. Ekran Görüntüsü:
+![U108Unity2](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/803796a5-f15d-4bed-8d0c-1b90d8ec1abb)
 
 **Sprint Review:** Hikaye düzenlendi, oyunun sadece renkli ve capcanlı gözükmesi yerine zamanla ciddileşmesi ve daha karanlık hale gelmesi konuşuldu, oynanışı güçlendirmek için bulmaca ve çeşitli platform mekanikleri tartışıldı.
 
