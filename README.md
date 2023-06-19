@@ -39,6 +39,10 @@ Takım olarak bazı detayları henüz netleştirmedik. Bu nedenle hikaye ve oyna
 
 **Daily Scrum:** Discord üzerinden sesli bir toplantı yaptık. Hem tanıştık hem de proje ile ilgili kararları aldık. Ekip olarak zaman sorunları nedeniyle her gün sesli toplantı yapamadık. Bunun yerine WhatsApp, Slack ve Discord üzerinden mesajlaşarak iletişim kurduk.
 
+WhatsApp ekran görüntülerimiz:
+![DailyScrum1](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/1d7fad35-18c3-46d8-99a3-322d61b13da8)
+![DailyScrum2](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/c2c501bf-67c8-42bb-b358-02a3c79c4629)
+
 **Sprint Board Update:** https://trello.com/b/0ChHet6H/u-108
 
 Takım olarak Trello üzerinden projemiz için planlama yaptık. Ekran Görüntüsü:
