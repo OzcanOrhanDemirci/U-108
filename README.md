@@ -39,7 +39,9 @@ Takım olarak bazı detayları henüz netleştirmedik. Bu nedenle hikaye ve oyna
 
 **Daily Scrum:** Discord üzerinden sesli bir toplantı yaptık. Hem tanıştık hem de proje ile ilgili kararları aldık. Ekip olarak zaman sorunları nedeniyle her gün sesli toplantı yapamadık. Bunun yerine WhatsApp, Slack ve Discord üzerinden mesajlaşarak iletişim kurduk.
 
-**Sprint Board Update:** Takım olarak Trello üzerinden projemiz için planlama yaptık. Ekran Görüntüsü:
+**Sprint Board Update:** https://trello.com/b/0ChHet6H/u-108
+
+Takım olarak Trello üzerinden projemiz için planlama yaptık. Ekran Görüntüsü:
 ![U108Trello](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/76db0425-3ee6-4e9b-86c7-e9e8c7b64d3d)
 
 **Ürün Durumu:** 1.Sprint, oyunumuz için aktif bir geliştirme süreci olmadı ancak hazırlıklarımızı tamamladık. 2.Sprintin başlaması ile beraber oyunumuzu geliştirmeye başlayacağız.
