@@ -35,7 +35,7 @@ Takım olarak bazı detayları henüz netleştirmedik. Bu nedenle hikaye ve oyna
 # Sprint 1
 **Sprint içerisinde tamamlanması tahmin edilen puan:** 100 Puan
 
-**Puan Tamamlama Mantığı:** 1.Sprint, takım olarak bir araya gelmek ve tanışmak ile geçti. Oyunumuz ile ilgili ilk kararları aldık. İlk sprint için her şeyi eksiksiz yapmaya çalışıyoruz ancak hata yaptığımız noktalar olursa sonraki sprintlerde bu hataları gidererek tam puana ulaşmayı hedefliyoruz.
+**Puan Tamamlama Mantığı:** Proje, 3 Sprint içerisinde tamamlanacak ve toplam 340 puan değerinde Backlog bulunmakta. İlk sprintte en az 100 puan almayı planlıyoruz.
 
 **Daily Scrum:** Discord üzerinden sesli bir toplantı yaptık. Hem tanıştık hem de proje ile ilgili kararları aldık. Ekip olarak zaman sorunları nedeniyle her gün sesli toplantı yapamadık. Bunun yerine WhatsApp, Slack ve Discord üzerinden mesajlaşarak iletişim kurduk.
 
