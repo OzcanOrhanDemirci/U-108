@@ -73,7 +73,8 @@ WhatsApp ekran görüntülerimiz:
 
 **Sprint Board Update:** https://trello.com/b/0ChHet6H/u-108
 Trello ekran görüntümüz:
-![U108Trello2](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/79c41cc1-4634-49c5-9679-21f7dfa354df)
+![U108Trello2](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/ecc303ed-720a-45cc-9944-20ef61c7de6d)
+
 
 **Ürün Durumu:** Bu Sprint içerisinde projemizin Assetlerini (Spritelar) hazırladık. Ekran görüntüsü:
 .
