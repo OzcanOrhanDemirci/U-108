@@ -76,7 +76,7 @@ Trello ekran görüntümüz:
 ![U108Trello2](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/ecc303ed-720a-45cc-9944-20ef61c7de6d)
 
 
-**Ürün Durumu:** Bu Sprint içerisinde projemizin Assetlerini (Spritelar) hazırladık. Bu assetler şunlar: 2D idle ana karakter, 2D ana karakter hareket animasyonu için spritelar, bölüm dizaynı için platform zeminleri ve ana zemin, görselliği iyileştirmek için dekoratif 2D spritelar.
+**Ürün Durumu:** Bu Sprint içerisinde projemizin Assetlerini (Spritelar) hazırladık.
 
 **Sprint Review:** Hikaye düzenlendi. Ana karakter ve bölüm dizaynı için 2D spritelar üzerinde çalışıldı. Oyunun sanat dizaynı belirlendi. Oynanışı çeşitlendirmek için çeşitli oynanış mekanikleri üzerine konuşuldu.
 
