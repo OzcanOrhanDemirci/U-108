@@ -77,6 +77,7 @@ Trello ekran görüntümüz:
 
 
 **Ürün Durumu:** Bu Sprint içerisinde projemizin Assetlerini (Spritelar) hazırladık.
+
 Ana karakter ekran görüntüsü:
 ![U108MainCharacter](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/11947ef2-f7fd-462f-8b72-de0c359b5a97)
 Animasyonlar için taslağımız:
