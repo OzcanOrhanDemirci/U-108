@@ -88,3 +88,5 @@ Animasyonlar için taslağımız:
 **Sprint Review:** Hikaye düzenlendi. Ana karakter ve bölüm dizaynı için 2D spritelar üzerinde çalışıldı. Oyunun sanat dizaynı belirlendi. Oynanışı çeşitlendirmek için çeşitli oynanış mekanikleri üzerine konuşuldu.
 
 **Sprint Retrospective:** Bayram nedeniyle geliştirme süreci çok hızlı ilerlemedi. Ekibin önümüzdeki son sprintte aktif bir geliştirme süreci içerisine girerek oyunu tamamlaması gerektiği konuşuldu.
+
+**Sprint Notları:** Bu sprint içerisinde oyunun assetlerini yani 2D spritelarını tasarlamaya (Veya hazır bulmaya) odaklandık. Ana karakter başta olmak üzere assetlerin büyük bölümü hazırlandı. Önümüzdeki son sprintte kalan assetleri tamamlayıp oyunu geliştirmeye devam edeceğiz.
