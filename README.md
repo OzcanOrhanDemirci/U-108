@@ -65,6 +65,8 @@ Takım olarak Trello üzerinden projemiz için planlama yaptık. Ekran görünt�
 
 **Sprint içerisinde tamamlanması tahmin edilen puan:** 120 Puan
 
+**Puan Tamamlama Mantığı:** Toplam 340 puanlık Backlog kapsamında 2.Sprint içerisinde 120 puan almayı planlıyoruz. Bu sayede bir sonraki sprintte de 120 puan almaya gayret ederek toplam 340 puanlık backlog hedefine ulaşabiliriz.
+
 **Daily Scrum:** Günlük iletişimi WhatsApp üzerinden sürdürmeye karar verdik ve proje hakkında WhatsApp üzerinden konuştuk.
 
 WhatsApp ekran görüntülerimiz:
