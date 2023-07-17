@@ -13,29 +13,25 @@ Esranur Doğan: Developer
 # Ürün İle İlgili Bilgiler
 
 ## Ürün İsmi
-U-108 Projesi (Proje ismi konusunda henüz karara varamadık)
+Bootcamp Projesinden Kaçış (Escaping the Bootcamp Project)
 
 ## Ürün Açıklaması
-U-108 Projesi, hikaye odaklı 2D Platform oyunudur. Oyunculara 4.duvarı yıkan hikaye anlatımı ile platform mekanikleri sunar. Oyunumuz yakın gelecekteki bir bilim-kurgu evrenini temel alır. Ana karakter, U-108 Projesinin içerisinde hapsolmuştur ve bu olayın nasıl gerçekleştiğini hatırlamamaktadır ancak  bir oyunun içerisinde olduğunu ve bir oyuncu tarafından kontrol edildiğinin farkındadır. Bu sayede doğrudan oyuncu ile iletişim kurabilir. Oyunun geçtiği evren ilk bakışta rengarenk ve eğlencelidir ama gerçekler zamanla ortaya çıkacaktır. Ana karakter oyunda ilerledikçe o rengarenk, cıvıl cıvıl evren gittikçe ciddi ve tehlikeli hale gelir. Ana karakter yani oyuncu, hikayeyi deneyimlerken platformlar arasında yol alır ve çeşitli bulmacaları çözerek bu sanal dünyadan kaçmaya çalışır.
+Bootcamp Projesinden Kaçış isimli projemiz, hikaye içeren bir platform oyunudur. Oyunumuz yakın gelecekteki bir bilim-kurgu evrenini temel alır. Ana karakter, projenin içerisinde hapsolmuştur ve bu olayın nasıl gerçekleştiğini bilmemektedir ancak  bir oyunun içerisinde olduğunu ve bir oyuncu tarafından kontrol edildiğinin farkındadır. Ana karakter yani oyuncu, hikayeyi deneyimlerken platformlar arasında yol alır ve bu projeden kaçarak gerçek hayata dönmeye çalışır.
 
 ## Ürün Özellikleri
-Ana karakter, 4.duvarı yıkarak oyuncu ile yazılı olarak konuşur.
-
-Oyuncu; Yürüme, zıplama, atılma gibi temel oynanış mekaniklerini kullanarak çeşitli bulmacaları çözer ve platformlar arasında ilerler.
+Oyuncu; Yürüme ve zıplama gibi temel oynanış mekaniklerini kullanarak çeşitli platformlar ve sahneler arasında ilerler.
 
 Oyuncu, oyunda ilerleyerek hikayeyi deneyim eder.
 
 ## Hedef Kitle
 Oyunumuzun hedef kitlesi, oyun oynamayı seven herkesi kapsasa da öncelikli olarak 12-29 yaş arası oyuncuların ilgisini çekmeyi amaçlar.
 
-4.Duvarı yıkan Deadpool gibi filmlere ve Stanley Parable gibi oyunlara ilgi duyanlar.
-
 Celeste gibi oynanışın temelinde platform olan oyunları sevenler.
 
 Bilim-Kurgu temelli hikayeleri deneyimlemekten keyif alanlar.
 
 ## Not
-Takım olarak bazı detayları henüz netleştirmedik. Bu nedenle hikaye ve oynanış başta olmak üzere bazı detaylar zamanla değişebilir.
+Takım olarak bazı detayları henüz netleştirmedik. Bu nedenle hikaye ve oynanış başta olmak üzere bazı detaylar zamanla değişebilir. (Hikaye ve oynanış 3.Sprint içerisinde düzenlendi)
 
 # Sprint 1
 
@@ -77,7 +73,6 @@ WhatsApp ekran görüntülerimiz:
 Trello ekran görüntümüz:
 ![U108Trello2](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/ecc303ed-720a-45cc-9944-20ef61c7de6d)
 
-
 **Ürün Durumu:** Bu Sprint içerisinde projemizin Assetlerini (Spritelar) hazırladık.
 
 Ana karakter ekran görüntüsü:
@@ -90,3 +85,30 @@ Animasyonlar için taslağımız:
 **Sprint Retrospective:** Bayram nedeniyle geliştirme süreci çok hızlı ilerlemedi. Ekibin önümüzdeki son sprintte aktif bir geliştirme süreci içerisine girerek oyunu tamamlaması gerektiği konuşuldu.
 
 **Sprint Notları:** Bu sprint içerisinde oyunun assetlerini yani 2D spritelarını tasarlamaya (Veya hazır bulmaya) odaklandık. Ana karakter başta olmak üzere assetlerin büyük bölümü hazırlandı. Önümüzdeki son sprintte kalan assetleri tamamlayıp oyunu geliştirmeye devam edeceğiz.
+
+# Sprint 3
+
+**Sprint içerisinde tamamlanması tahmin edilen puan:** 120 Puan
+
+**Puan Tamamlama Mantığı:** Toplam 340 puanlık Backlog bulunmakta. İlk 2 Sprint ile 220 puan almayı hedefledik. Bu son sprint ile kalan 120 puanı tamamlamayı planlıyoruz.
+
+**Daily Scrum:** 2.Sprint içerisinde aldığımız kararı (İletişimi WhatsApp üzerinden sağlamak) devam ettirdik ve günlük iletişimimizi sürdürdük.
+
+WhatsApp ekran görüntülerimizi:
+![DailyScrum5](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/5573d179-9c66-41d1-8e9d-274622d810ae)
+![DailyScrum6](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/9496cfec-8782-4a28-bdf7-d5db97197e3d)
+![DailyScrum7](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/e24ef871-e197-444d-8c65-bfa5f31ace4b)
+
+**Sprint Board Update:** https://trello.com/b/0ChHet6H/u-108
+Trello ekran görüntülerimiz:
+![U108Trello3](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/967b392f-4ae9-4bc3-9c99-c47487e7ce36)
+![U108Trello4](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/9d523688-1745-4030-bee9-2fcb393aab2a)
+
+**Ürün Durumu:** Bu Sprint içerisinde projemizi tamamladık.
+Ekran Görüntüsü: Eklenecek...
+
+**Sprint Review:** Hikaye, son kez düzenlenip sadeleştirildi. Oynanış basitleştirildi ve bölüm dizaynına uygun hale getirildi. Eksik kalan Assetler Tamamlandı. Oyunun kodları yazıldı ve oyun, Unity ile geliştirildi.
+
+**Sprint Retrospective:** Bu sprint içerisinde, bir önceki sprintte alınan ekibin daha aktif olması gerektiği kararı uygulanmaya çalışıldı. Ekibin ileride yer alacağı diğer projelerde en baştan itibaren daha aktif olması gerektiği öz eleştirisi yapıldı.
+
+**Sprint Notları:** Bu sprint içerisinde oyunu tamamlamaya odaklandık. Eksik kalan assetleri hazırladık ve oyunun kodlarını yazdık. 
