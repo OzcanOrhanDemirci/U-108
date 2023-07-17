@@ -13,7 +13,7 @@ Esranur Doğan: Developer
 # Ürün İle İlgili Bilgiler
 
 ## Ürün İsmi
-Bootcamp Projesinden Kaçış (Escaping the Bootcamp Project)
+Bootcamp Projesinden Kaçış
 
 ## Ürün Açıklaması
 Bootcamp Projesinden Kaçış isimli projemiz, hikaye içeren bir platform oyunudur. Oyunumuz yakın gelecekteki bir bilim-kurgu evrenini temel alır. Ana karakter, projenin içerisinde hapsolmuştur ve bu olayın nasıl gerçekleştiğini bilmemektedir ancak  bir oyunun içerisinde olduğunu ve bir oyuncu tarafından kontrol edildiğinin farkındadır. Ana karakter yani oyuncu, hikayeyi deneyimlerken platformlar arasında yol alır ve bu projeden kaçarak gerçek hayata dönmeye çalışır.
