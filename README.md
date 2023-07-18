@@ -105,7 +105,10 @@ Trello ekran görüntülerimiz:
 ![U108Trello4](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/9d523688-1745-4030-bee9-2fcb393aab2a)
 
 **Ürün Durumu:** Bu Sprint içerisinde projemizi tamamladık.
-Ekran Görüntüsü: Eklenecek...
+Oyun içi ekran görüntülerimizi:
+![InGame1](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/d64c2f53-a2fd-4def-870d-8bb4c7a8c433)
+![InGame2](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/586a5125-68c7-4319-97ed-5ff5e89be808)
+![InGame3](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/2d84a11a-ac3c-40d0-ab99-10a6e3070edf)
 
 **Sprint Review:** Hikaye, son kez düzenlenip sadeleştirildi. Oynanış basitleştirildi ve bölüm dizaynına uygun hale getirildi. Eksik kalan Assetler Tamamlandı. Oyunun kodları yazıldı ve oyun, Unity ile geliştirildi.
 
