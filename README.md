@@ -41,10 +41,6 @@ Takım olarak bazı detayları henüz netleştirmedik. Bu nedenle hikaye ve oyna
 
 **Daily Scrum:** Discord üzerinden sesli bir toplantı yaptık. Hem tanıştık hem de proje ile ilgili kararları aldık. Ekip olarak zaman sorunları nedeniyle her gün sesli toplantı yapamadık. Bunun yerine WhatsApp, Slack ve Discord üzerinden mesajlaşarak iletişim kurduk.
 
-WhatsApp ekran görüntülerimiz:
-![DailyScrum1](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/1d7fad35-18c3-46d8-99a3-322d61b13da8)
-![DailyScrum2](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/c2c501bf-67c8-42bb-b358-02a3c79c4629)
-
 **Sprint Board Update:** https://trello.com/b/0ChHet6H/u-108
 
 Takım olarak Trello üzerinden projemiz için planlama yaptık. Ekran görüntüsü:
@@ -64,10 +60,6 @@ Takım olarak Trello üzerinden projemiz için planlama yaptık. Ekran görünt�
 **Puan Tamamlama Mantığı:** Toplam 340 puanlık Backlog kapsamında 2.Sprint içerisinde 120 puan almayı planlıyoruz. Bu sayede bir sonraki sprintte de 120 puan almaya gayret ederek toplam 340 puanlık backlog hedefine ulaşabiliriz.
 
 **Daily Scrum:** Günlük iletişimi WhatsApp üzerinden sürdürmeye karar verdik ve proje hakkında WhatsApp üzerinden konuştuk.
-
-WhatsApp ekran görüntülerimiz:
-![DailyScrum3](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/9d8bb496-b351-4419-8f14-4508c7c9d78c)
-![DailyScrum4](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/107eeed2-b6bb-4bd3-a8db-81885440ab05)
 
 **Sprint Board Update:** https://trello.com/b/0ChHet6H/u-108
 Trello ekran görüntümüz:
@@ -93,11 +85,6 @@ Animasyonlar için taslağımız:
 **Puan Tamamlama Mantığı:** Toplam 340 puanlık Backlog bulunmakta. İlk 2 Sprint ile 220 puan almayı hedefledik. Bu son sprint ile kalan 120 puanı tamamlamayı planlıyoruz.
 
 **Daily Scrum:** 2.Sprint içerisinde aldığımız kararı (İletişimi WhatsApp üzerinden sağlamak) devam ettirdik ve günlük iletişimimizi sürdürdük.
-
-WhatsApp ekran görüntülerimizi:
-![DailyScrum5](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/5573d179-9c66-41d1-8e9d-274622d810ae)
-![DailyScrum6](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/9496cfec-8782-4a28-bdf7-d5db97197e3d)
-![DailyScrum7](https://github.com/OzcanOrhanDemirci/U-108/assets/121283180/e24ef871-e197-444d-8c65-bfa5f31ace4b)
 
 **Sprint Board Update:** https://trello.com/b/0ChHet6H/u-108
 Trello ekran görüntülerimiz:
