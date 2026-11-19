@@ -1,3 +1,115 @@
+<div align="center">
+
+# U-108 · Bootcamp Projesinden Kaçış
+
+**Escape from the Bootcamp Project · a story-driven 2D platformer.**
+
+A character knows he is inside a game. He wants to find a way back to real life.
+
+[![Latest release of the July 2023 game](https://img.shields.io/github/v/release/OzcanOrhanDemirci/U-108?label=release&color=success)](https://github.com/OzcanOrhanDemirci/U-108/releases/latest)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Built with Unity 2022.3](https://img.shields.io/badge/Unity-2022.3-222222?logo=unity&logoColor=white)](#built-with)
+[![Platform: Windows x64](https://img.shields.io/badge/platform-Windows%20x64-0078D4)](#play-it)
+[![Oyun ve Uygulama Akademisi · Bootcamp 2023](https://img.shields.io/badge/Oyun%20ve%20Uygulama%20Akademisi-Bootcamp%202023-FFC72C?labelColor=1a1a1a)](#how-it-was-made)
+[![The 2026 remake](https://img.shields.io/badge/2026-U--108%20Remake-8B3A62)](https://github.com/OzcanOrhanDemirci/U-108-Remake)
+
+<img src="ProjectManagement/Sprint3Documents/InGame2.PNG" alt="The character stands on a black platform beside a white doorway in the first level's red and blue forest" width="800" />
+
+[Play](#play-it) · [How it was made](#how-it-was-made) · [The remake](https://github.com/OzcanOrhanDemirci/U-108-Remake) · [License](LICENSE)
+
+</div>
+
+This repository is kept as it was built in July 2023.
+
+## About
+
+**Bootcamp Projesinden Kaçış** is a short, story-driven 2D platformer set in a near-future science-fiction world. Its main character is trapped inside the project. He does not know how he got there, but knows he is in a game and controlled by a player. Together, they cross platforms and try to escape into real life.
+
+Four people made it as **Team Unity 108 (U-108)** at the **Oyun ve Uygulama Akademisi** bootcamp in summer 2023. It was Özcan Orhan Demirci's first finished piece of software and his first game.
+
+The finished build has eight scenes: a menu, three dialogue scenes, two short platform levels, a laboratory and credits. Dialogue appears letter by letter, with a **Devam Et** (Continue) button; touching spikes restarts the level. The original audience was anyone who enjoys games, primarily ages 12–29, especially fans of platformers such as Celeste and science-fiction stories.
+
+## Screenshots
+
+<img src="ProjectManagement/Sprint3Documents/InGame1.PNG" alt="Turkish dialogue on a black background, with a Devam Et button to continue the story" width="720" />
+
+<img src="ProjectManagement/Sprint3Documents/InGame3.PNG" alt="The laboratory scene, with Turkish dialogue beside the laboratory artwork" width="720" />
+
+## Play it
+
+**Windows x64 · about 89 MB · build dated 18 July 2023.** The game is in Turkish.
+
+1. Download **Source code (zip)** from the [latest release](https://github.com/OzcanOrhanDemirci/U-108/releases/latest), or use **Code → Download ZIP** on the [repository page](https://github.com/OzcanOrhanDemirci/U-108). Cloning the repository works too.
+2. Extract the ZIP and open `U-108_Build_1.1`.
+3. Run `Bootcamp Projesinden Kacis.exe`, keeping the build's files together.
+
+| Control | Action |
+| --- | --- |
+| **A** | Move left |
+| **D** | Move right |
+| **W** | Jump |
+| Mouse click | Use menu and dialogue buttons |
+
+Movement uses A, D and W; arrow keys and the space bar are not mapped. The mouse is only needed for buttons.
+
+This is an unsigned 2023 build. If Windows SmartScreen warns, choose **More info → Run anyway**.
+
+## How it was made
+
+The team worked in **three Scrum sprints**, planning a **340-point backlog** on [Trello](https://trello.com/b/0ChHet6H/u-108). The targets were 100, 120 and 120 points.
+
+### Sprint 1 · June 2023
+
+Preparation, before active development. The story was reworked to begin bright and colourful, then grow darker and more serious; puzzle and platform mechanics were discussed. University finals made this a busy period.
+
+<img src="ProjectManagement/Sprint1Documents/U108Trello.PNG" alt="Sprint 1 Trello board showing planned work, work in progress, completed story preparation and optional ideas" width="720" />
+
+### Sprint 2 · early July 2023
+
+The team prepared 2D sprites and assets, including the main character and animation sketches, and set the art direction. The Bayram holiday slowed development, leaving the final sprint to finish the game.
+
+<img src="ProjectManagement/Sprint2Documents/U108Animation.jpg" alt="Pencil sketches of the main character standing, walking and running through successive animation poses" width="720" />
+
+### Sprint 3 · July 2023
+
+The game was completed in Unity. The story was simplified, gameplay was simplified to fit the level design, the remaining assets were finished and the code was written. The retrospective's lesson was to be active from the very start of future projects.
+
+### The team
+
+| Member | Role |
+| --- | --- |
+| Özcan Orhan Demirci | Scrum Master |
+| Simge Gürakar | Product Owner |
+| Aleyna Temelkaya | Developer |
+| Esranur Doğan | Developer |
+
+Unity was used to build the game, Trello to plan it. Communication began with one Discord voice meeting, then continued through WhatsApp, Slack and Discord messages. From sprint 2, daily communication took place on WhatsApp.
+
+## What's in the repository
+
+| Path | Contents |
+| --- | --- |
+| `Scripts/` | Six C# scripts, 182 lines in total |
+| `OriginalAssets/` | Character idle and walk sprites, three level backgrounds and opening scene art |
+| `ProjectManagement/` | Sprint 1–3 documents: Trello boards, a Unity screenshot, sketches and in-game screenshots |
+| `U-108_Build_1.1/` | The finished Windows build |
+| `LICENSE` | MIT license, 2023 |
+
+The Unity project folder itself is not included. This repository holds the scripts, original art, process documents and finished build.
+
+## Built with
+
+**Unity 2022.3.4f1 · C# · 2D.** The scripts use Rigidbody2D physics, Animator and UI Text for movement, jumping, animation, spike deaths, typewriter dialogue, continue buttons, scene changes and quitting.
+
+## The remake (2026)
+
+In 2026, Özcan rebuilt the game from scratch with Claude Code, without an engine, using TypeScript, WebGL2 and .NET WebView2. [U-108 Remake](https://github.com/OzcanOrhanDemirci/U-108-Remake) begins as this 2023 game, then keeps going.
+
+## The original 2023 README, in Turkish
+
+<details>
+<summary>Read the original team introduction and sprint record</summary>
+
 # Takım İsmi
 Takım Unity 108
 
@@ -102,3 +214,11 @@ Oyun içi ekran görüntülerimizi:
 **Sprint Retrospective:** Bu sprint içerisinde, bir önceki sprintte alınan ekibin daha aktif olması gerektiği kararı uygulanmaya çalışıldı. Ekibin ileride yer alacağı diğer projelerde en baştan itibaren daha aktif olması gerektiği öz eleştirisi yapıldı.
 
 **Sprint Notları:** Bu sprint içerisinde oyunu tamamlamaya odaklandık. Eksik kalan assetleri hazırladık ve oyunun kodlarını yazdık. 
+
+</details>
+
+## License and contact
+
+[MIT](LICENSE) · Copyright © 2023 Özcan Orhan Demirci.
+
+[Özcan Orhan Demirci](https://github.com/OzcanOrhanDemirci) · [mail@ozcanorhandemirci.com](mailto:mail@ozcanorhandemirci.com)
